@@ -1,0 +1,32 @@
+.background {
+    background-color: #141414;
+    color: white;
+    padding-bottom: 1rem;
+
+}
+
+.faviconBox {
+    display: flex;
+    gap: 1rem;
+}
+
+.footerLinks {
+    display: flex;
+    justify-content: space-around;
+    padding: 1rem;
+    text-align: left;
+}
+
+.textBox {
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+}
+
+.serviceButton {
+    padding: 8px 16px;
+    background-color: #141414;
+    color: white;
+    border: 1px solid rgb(70, 70, 70);
+    margin-bottom: 1rem;
+}

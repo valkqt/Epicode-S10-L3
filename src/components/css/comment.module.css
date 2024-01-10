@@ -1,0 +1,15 @@
+.ratingBox {
+  border-radius: 100%;
+  width: 20px;
+  height: 20px;
+  background-color: #141414;
+  font-size: 0.75rem;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.singleComment {
+  padding: 3px 0;
+}

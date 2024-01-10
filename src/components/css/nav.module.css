@@ -1,0 +1,22 @@
+.logo {
+    max-width: 100px;
+}
+
+.navBody {
+    background-color: #141414;
+    border-bottom: 1px solid rgb(70, 70, 70);
+}
+
+.navBody a {
+    color: white !important;
+
+}
+
+.searchBar:focus {
+    border: none !important;
+    box-shadow: none;
+}
+
+.highlighted {
+    font-weight: bold;
+}

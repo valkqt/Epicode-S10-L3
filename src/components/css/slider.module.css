@@ -1,0 +1,12 @@
+.slider {
+    display: flex;
+    justify-content: space-around;
+    padding-bottom: 2rem;
+    max-width: 100%;
+}
+
+.alert {
+    background-color: #5e1418 !important;
+    color: white !important;
+    border: none !important;
+}
